@@ -1,0 +1,13 @@
+互動音效來源：効果音ラボ（https://soundeffect-lab.info/）
+使用規約：https://soundeffect-lab.info/agreement/
+
+本資料夾中的 sfx-*.mp3 均下載自効果音ラボ，依其使用規約用於本教育遊戲。
+
+- sfx-scroll-open.mp3：紙を広げる1
+- sfx-button.mp3：決定ボタンを押す29（木琴）
+- sfx-puzzle-move.mp3：将棋の駒を指す
+- sfx-clue-unlock.mp3：小鼓（こつづみ）
+- sfx-correct.mp3：正解音1
+- sfx-incorrect.mp3：不正解音1
+- sfx-complete.mp3：和太鼓でドドン
+- sfx-bell.mp3：鈴が鳴る
